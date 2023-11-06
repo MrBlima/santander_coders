@@ -1,9 +1,6 @@
 # Curso Sigital Git
 
-## Gravando curso teste
+## Salvando alterações no GIT
 
-
-## testando novamente
-
-# linha verde
+* comando git push
 
