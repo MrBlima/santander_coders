@@ -1,4 +1,4 @@
-# Curso Sigital Git
+# Curso Digital Git
 
 ## Salvando alterações no GIT
 
